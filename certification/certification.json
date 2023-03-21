@@ -1,0 +1,19 @@
+[
+    {
+        "name": "graduation in the back end developer class",
+        "by": "Dicoding.com",
+        "image": "./certification/sert1.jpg",
+        "category":"programming",
+        "links": {
+            "credentials": "https://dicoding.com/"
+        }
+    }, {
+        "name": "an appreciation from the Indonesian state cyber and cipher agency for cooperation",
+        "by": "Badan Siber Dan Sandi Negara ",
+        "image": "./certification/bssn_apresiasi.jpg",
+        "category":"programming",
+        "links": {
+            "credentials": "https://bssn.go.id/sertifikat-elektronik/"
+        }
+    }
+]
